@@ -22,6 +22,13 @@ var/
 wheels/
 share/python-wheels/
 *.egg-info/
+.idea/*
+pomiary/*
+.DS_Store
+readfileTestF8.ipynb
+readfileTestF10.ipynb
+readfileTrainF8.ipynb
+readfileTrainF10.ipynb
 .installed.cfg
 *.egg
 MANIFEST
